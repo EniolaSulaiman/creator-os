@@ -49,7 +49,7 @@ body {
     display: flex;
     align-items: center;
     justify-content: space-between;
-    transform: translateY(-100%);
+    transform: translateY(calc(-100% - 4px));
     transition: transform .35s ease;
 }
 
