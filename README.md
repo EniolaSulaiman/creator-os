@@ -2,8 +2,6 @@
 
 > A high-converting, fully responsive digital product sales page built with vanilla HTML, CSS, and JavaScript. Designed and developed as a frontend portfolio project by **Eniola Sulaiman**.
 
-![CreatorOS Preview](https://eniola-sulaiman.github.io/creator-os/preview.png)
-
 🔗 **[View Live Demo](https://eniola-sulaiman.github.io/creator-os/)**
 
 ---
